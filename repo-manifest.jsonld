@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/aioloop-proxy/commit/ab9a19d098c1e5454aaabb9222a6787e71af541e",
       "git:hexsha": "ab9a19d098c1e5454aaabb9222a6787e71af541e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T08:58:32.151517+00:00"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/aioloop-proxy/commit/fcf85a378be65f3e0c70747094ee82eef2d05571",
