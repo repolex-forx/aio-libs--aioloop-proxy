@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aioloop-proxy",
+  "versions": [
+    {
+      "commit": "ab9a19d098c1e5454aaabb9222a6787e71af541e",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:58:32.152020+00:00"
+    }
+  ]
+}
